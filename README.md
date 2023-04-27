@@ -11,15 +11,15 @@ These config are for hyprland on arch linux
 <img src="imgs/power.png">
 
 ## Details
-*Compositor - [hyprland](https://hyprland.org/)
-*Shell - [zsh (zap)](https://www.zapzsh.org/)
-*Terminal - [kitty](https://sw.kovidgoyal.net/kitty/)
-*Bar - [waybar](https://github.com/Alexays/Waybar)
-*Launcher/Emojis - [rofi](https://github.com/davatorium/rofi) 
-*Text Editor/IDE - [neovim](https://neovim.io/)
-*File Manager - [thunar](https://docs.xfce.org/xfce/thunar/start)
-*Audio Visualizer - [cava](https://github.com/karlstav/cava)
-*Resource Monitor - [btop](https://github.com/aristocratos/btop)
+* Compositor - [hyprland](https://hyprland.org/)
+* Shell - [zsh (zap)](https://www.zapzsh.org/)
+* Terminal - [kitty](https://sw.kovidgoyal.net/kitty/)
+* Bar - [waybar](https://github.com/Alexays/Waybar)
+* Launcher/Emojis - [rofi](https://github.com/davatorium/rofi) 
+* Text Editor/IDE - [neovim](https://neovim.io/)
+* File Manager - [thunar](https://docs.xfce.org/xfce/thunar/start)
+* Audio Visualizer - [cava](https://github.com/karlstav/cava)
+* Resource Monitor - [btop](https://github.com/aristocratos/btop)
 
 ## Dependencies
 ```
