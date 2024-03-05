@@ -1,4 +1,4 @@
-# Hyprland dotfiles
+# Hyprland dotfiles [old]
 These config are for hyprland on arch linux
 
 ## Screenshots
